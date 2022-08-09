@@ -284,7 +284,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 38px;
 }
 
 .navbar {
@@ -476,7 +476,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 40px!important;
 }
 
 .icon-lg {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -701,7 +701,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 20px auto auto auto;
 }
 
 h2 {
@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: /*#F3976C!important*/#cfcfcf!important;
+    color: /*#F3976C!important*/#ffffff!important;
 }
 
 .btn-atomic-tangerine {
