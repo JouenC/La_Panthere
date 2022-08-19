@@ -9,6 +9,7 @@ a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
+    text-decoration: none;
 }
 
 a:hover {
@@ -324,7 +325,9 @@ a:hover {
 .nav > li {
     /*float: left;*/
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 18px;
+    display: block;
+    padding-bottom: 10px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -332,7 +335,8 @@ a:hover {
 }
 
 .nav > li a:hover {
-    background: transparent;
+    /*background: transparent;*/
+    color: #F3976C !important;
 }
 
 .nav > li a:focus {
