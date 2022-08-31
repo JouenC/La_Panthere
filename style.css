@@ -271,11 +271,12 @@ a:hover {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+    display: flex;
 }
 
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
-    padding-right: 0;
+    padding-right: 35px;
     padding-left: 0;
 }
 
